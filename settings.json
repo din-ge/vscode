@@ -1,0 +1,45 @@
+//  ჩასაყენებელი PLUGINS:
+// CSS Peek
+// eCSStractor for VSCode
+// Gist
+// HTML to CSS autocompletion
+// IntelliSense for CSS class names in HTML
+// Live Server
+// One Dark Pro
+{
+	"terminal.integrated.defaultProfile.windows": "Ubuntu (WSL)",
+	"workbench.startupEditor": "newUntitledFile",
+	"editor.smoothScrolling": true,
+	"editor.fontSize": 15,
+	"editor.minimap.enabled": false,
+	"breadcrumbs.enabled": false,
+	"editor.renderControlCharacters": true,
+	"editor.tabSize": 2,
+	"workbench.activityBar.visible": false,
+	"files.defaultLanguage": "html",
+	"git.ignoreMissingGitWarning": true,
+	"editor.detectIndentation": false,
+	"editor.folding": false,
+	"editor.glyphMargin": false,
+	"editor.parameterHints.enabled": false,
+	"editor.hover.enabled": false,
+	"terminal.integrated.fontSize": 15,
+	"editor.renderWhitespace": "boundary",
+	"editor.lineHeight": 23,
+	"liveServer.settings.donotShowInfoMsg": true,
+	"liveServer.settings.donotVerifyTags": true,
+	"ecsstractor_port.add_comment": false,
+	"ecsstractor_port.empty_line_before_nested_selector": false,
+	"explorer.confirmDelete": false,
+	"security.workspace.trust.enabled": false,
+	"workbench.colorTheme": "One Dark Pro Flat",
+	"editor.insertSpaces": false,
+	"editor.linkedEditing": true,
+	"editor.bracketPairColorization.enabled": true,
+	"editor.wordSeparators": "`~!@#$%^&*()=+[{]}\\|;:'\",.<>/?",
+	"emmet.triggerExpansionOnTab": true,
+	"emmet.excludeLanguages": [],
+	"emmet.extensionsPath": [
+		"~/.config/Code/User/emmet/"
+	]
+}
